@@ -9,6 +9,8 @@ import Foundation
 
 public class FFMan {
     
+    public init() {}
+    
     public func name() -> String {
         "the FFman"
     }
